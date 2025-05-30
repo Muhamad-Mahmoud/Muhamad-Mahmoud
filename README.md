@@ -33,14 +33,14 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh3laan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhmmad-mahmoud)
 
 ---
 ### 📊 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-streak-stats-eight.vercel.app?user=Ahmedshalaan&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
+![Ahmed's GitHub stats](https://github-readme-streak-stats-eight.vercel.app?user=Muhamad-Mahmoud&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedshalaan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamad-Mahmoud&layout=compact&theme=radical)
 
 ---
 
